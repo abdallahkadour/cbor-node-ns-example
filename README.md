@@ -8,5 +8,6 @@ Debug repo for cobr-node
 
 ## debug
 
-`$ns debug ios`
+`$ns debug ios` or `$ns debug android`
+
 
